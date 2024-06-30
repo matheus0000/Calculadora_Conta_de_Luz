@@ -7,7 +7,7 @@ def calcular_tarifa_por_kwh(consumo_kwh, valor_total):
         return None  # Retornar None se o consumo for zero ou negativo
 
 # Exemplo de utilização:
-consumo = float(input("Digite o consumo de energia em kWh: "))
+consumo = float(input("Digite o consumo de energia em (kWh) : "))
 valor_total = float(input("Valor que você paga na conta de Luz (R$) : "))
 
 tarifa = calcular_tarifa_por_kwh(consumo, valor_total)
