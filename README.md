@@ -1,9 +1,1 @@
-Hello World  -- Inglés
-
-Olá Mundo    -- Português
-
-Hola Mundo  --  Espanhol
-
-Привет мир  --  Russo
-
-Hallo Welt  --  Alemão
+Certifique-se de ajustar as unidades e moeda conforme necessário para sua localização (BRL_REAL_R$)
